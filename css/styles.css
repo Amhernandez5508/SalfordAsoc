@@ -120,12 +120,25 @@ section h2 {
     color: rgb(133, 133, 197);
 }
 
+#nosotrosH2 {
+    width: 300px;
+    margin-right: 100px;
+}
+
+#nosotrosDivImg {
+    margin: 0;
+}
+
 #imgNosotros {
     display: inline-block;
     width: 600px;
     border-radius: 50px;
     border: 2px solid rgb(87, 87, 87);
+}
+
+#nosotrosP {
     margin-left: 50px;
+    margin-top: 5px;
 }
 
 main p {
